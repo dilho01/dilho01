@@ -8,4 +8,10 @@
 
 ![ Gabriel Github Stasts](https://github-readme-stats.vercel.app/api?username=dilho01&theme=blue-green)
 
+## Tecnologias que eu uso no meu dia:
+
+<div style= "display: inline_block"><br/> 
+  <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+</div>
 

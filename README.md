@@ -6,3 +6,6 @@
 )](https://www.instagram.com/gabriel_dilho/?igshid=MzMyNGUyNmU2YQ%3D%3D) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-td-b81a83297/)
 
+![ Gabriel Github Stasts](https://github-readme-stats.vercel.app/api?username=dilho01&theme=blue-green)
+
+

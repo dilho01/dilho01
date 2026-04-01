@@ -13,7 +13,7 @@
 
 ## 🌟 Sobre mim
 Sou um cara movido a **tecnologia** e curioso pra caramba! 😄  
-- 🎓 No 4º período de Ciência da Computação (Estácio, RJ).
+- 🎓 No 6º período de Ciência da Computação (Estácio, RJ).
 - 💻 Amo programar e criar novos projetos.
 - 🚀 Sempre correndo atrás de aprender mais, tô sempre testando algo novo!
 - 🌱 Minha vibe é evoluir todo dia, seja debugando um código ou estudando uma tech nova.
